@@ -26,14 +26,14 @@ body {
 #banner {
 	width: 78%;
 	height: 250px;
-	background-image: url(Банер.gif);
+	background-image: url(baner.gif);
 	float: left;
 }
 
 #flag {
 	width: 22%;
 	height: 250px;
-	background-image: url(флаг.jpg);
+	background-image: url(flag.jpg);
 	float: right;
 }
 
@@ -71,7 +71,7 @@ body {
 }
 
 #footer {
-	background-image: url(подвал1.png);
+	background-image: url(footer.png);
 	left: 0;
  	bottom: 0;
  	width: 100%;
