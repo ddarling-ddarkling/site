@@ -1,0 +1,83 @@
+*{
+	margin: 0;
+	border: 0;
+}
+
+body {
+	color: #000000;
+	padding: 0;
+	background: #FFFFFF;
+	padding-right: 5px;
+}
+
+#container {
+	background: #FFFAFA;
+	width: 100%;
+	margin: 0 auto;
+	position: relative;
+	min-height: 100%;
+}
+
+#top {
+	width: 100%;
+	height: 250px;
+}
+
+#banner {
+	width: 78%;
+	height: 250px;
+	background-image: url(Банер.gif);
+	float: left;
+}
+
+#flag {
+	width: 22%;
+	height: 250px;
+	background-image: url(флаг.jpg);
+	float: right;
+}
+
+#menu {
+	font-family: "Arial", sans-serif;
+	font-weight: bold;
+	background: #d4cdcd;
+	width: 100%;
+	height: 50px;
+	position: absolute;
+	z-index: 1;
+}
+
+#main {
+	margin-top: 50px;
+	position: relative;
+	background: #fffafa;
+	width: 100%;
+	min-height: 600px;
+	padding-bottom: 400px;
+}
+
+#main_main {
+	width: 78%;
+	height: 600px;
+	float: left;
+}
+
+#right_bar {
+	width: 22%;
+	height: 600px;
+	float: right;
+	background: #e9e4e4;
+	padding-bottom: 400px;
+}
+
+#footer {
+	background-image: url(подвал1.png);
+	left: 0;
+ 	bottom: 0;
+ 	width: 100%;
+ 	height: 200px;
+}
+
+.clear {
+	clear:both;
+}
