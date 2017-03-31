@@ -7,12 +7,10 @@ form{
   background:RGBA(255,255,255,1);
   -webkit-box-shadow:  0px 0px 15px 0px rgba(0, 0, 0, .45);
   box-shadow:  0px 0px 15px 0px rgba(0, 0, 0, .45);
-  font-family: 'Lato', sans-serif;
 }
 
 #reg {
   font-family: "Arial", sans-serif;
-  font-weight: bold;
   border: 1px solid #c1d5e1;
   padding: 20px;
 }

@@ -1,0 +1,32 @@
+.div1 {
+  font-size: 20pt;
+  font-family: 'Cuprum', sans-serif;
+  text-align: center;
+  padding-top: 50px;
+}
+
+img {
+  hspace: 20;
+  vspace: 40;
+}
+
+.a1 {
+  text-align: left;
+  font-family: "Arial", sans-serif;
+  font-size: 12pt;
+  padding-left: 50px;
+
+}
+
+.div2 {
+  padding: 10px 50px 20px 50px;
+  font-size: 11pt;
+  font-family: "Arial", sans-serif;
+}
+
+.div3 {
+  font-size: 15pt;
+  font-family: 'Cuprum', sans-serif;
+  padding-left: 50px;
+  padding-right: 10px;
+}
